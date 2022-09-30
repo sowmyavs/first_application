@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    background-color: SlateGrey;
+}
+
+p {
+    color: white;
+    font-family: Shanti;
+    font-size: 1.2em;
+    display: inline-block;
+    margin:  20px;
+}
