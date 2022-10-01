@@ -1,4 +1,4 @@
-#Say Hello Web app
+## Say Hello Web app
 
 This is a very simple web application built on python (flask) at the backend and HTML, CSS at the front end. This web-app takes **name** as input.
 When **greet** (submit) button is pushed, the web app returns a message **"Hi [name] great to see you!!**.
